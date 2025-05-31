@@ -15,6 +15,14 @@ From Repo:
 
 ``python -m pip install git+https://github.com/SpockBotMC/python-minecraft-data``
 
+On local machine and with `latest version` from `minecraft-data`:
+
+``git clone --recurse-submodules -j8 git@github.com:Endre-Tonnessen/python-minecraft-data-FIX.git``
+
+Then navigate to the downloaded folder and install in editable mode:
+
+``pip install -e .``
+
 Usage
 -----
 
